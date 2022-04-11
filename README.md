@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PavanBashetty
 - 👀 I’m interested in learning progamming languages
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Java
 
 
 <!---
