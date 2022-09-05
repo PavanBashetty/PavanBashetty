@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PavanBashetty
 - 👀 I’m interested in learning progamming languages
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently a Master's student at SRH University
 
 
 <!---
