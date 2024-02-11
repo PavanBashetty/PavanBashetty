@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PavanBashettyc, a master's student at SRH University.
+- 👋 Hi, I’m @PavanBashetty, a master's student at SRH University.
 - Pursing werk student as a software developer at Robert Bosch GmbH
 
 
