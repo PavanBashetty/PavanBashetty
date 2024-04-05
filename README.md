@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @PavanBashetty, a master's student at SRH University.
-- Pursing werk student as a software developer at Robert Bosch GmbH
+- 👋 Hi, I’m @PavanBashetty, software developer at Robert Bosch GmbH
 
 
 <!---
